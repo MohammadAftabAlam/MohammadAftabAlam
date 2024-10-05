@@ -16,8 +16,8 @@ I’m eager to collaborate on projects related to **Flutter**, **Data Structures
 You can reach me directly via email: [mohammadaftab1062@gmail.com](mailto:mohammadaftab1062@gmail.com)
 
 ### 🌐 Connect with me on social media:
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/your-linkedin-profile)
-[![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://www.instagram.com/your-instagram-profile)
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/mdaftabalam1062)
+[![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://www.instagram.com/mohammad._aftab._)
 
 
 ## ⚡ Fun Fact
