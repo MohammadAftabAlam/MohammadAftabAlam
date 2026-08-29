@@ -1,10 +1,10 @@
 # 👋 Hi, I’m Mohammad Aftab Alam
 
 ## 🔍 Interests
-I’m passionate about **MERN**, **Django**, **Flutter** and **Firebase** development, and I love creating innovative applications that solve real-world problems.
+I’m passionate about **MERN**, **Flutter** and **Firebase** development, and I love creating innovative applications that solve real-world problems.
 <!--
 ## 🌱 🎓 Education
-I have completed my **Diploma in Computer Engineering** in 2024 from Jamia Millia Islamia, New Delhi and currently pursuing **BTech in Computer Science and Engineering** as a pre final year student from Dr. APJ Abdul Kalam Technical University (AKTU), U.P.
+I have completed my **Diploma in Computer Engineering** in 2024 from Jamia Millia Islamia, New Delhi and currently pursuing **BTech in Computer Science and Engineering** as a final year student from Dr. APJ Abdul Kalam Technical University (AKTU), U.P.
 
  **Course**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Specialization**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Duration**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Affiliation**
 
