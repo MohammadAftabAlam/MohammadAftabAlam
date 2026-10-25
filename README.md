@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Mohammad Aftab Alam
 
 ## 🔍 Interests
-I’m passionate about **MERN**, **Flutter** and **Firebase** development, and I love creating innovative applications that solve real-world problems.
+I’m passionate about**Flutter** , **Java Spring Boot** and **Firebase** development, and I love creating innovative applications that solve real-world problems.
 <!--
 ## 🌱 🎓 Education
 I have completed my **Diploma in Computer Engineering** in 2024 from Jamia Millia Islamia, New Delhi and currently pursuing **BTech in Computer Science and Engineering** as a final year student from Dr. APJ Abdul Kalam Technical University (AKTU), U.P.
@@ -21,7 +21,7 @@ I am actively learning **Python** to broaden my programming skill set and enhanc
 
 -->
 ## 🤝 Collaboration
-I’m eager to collaborate on projects related to **MERN**, **Django**, **Flutter** and **Firebase**. If you have exciting ideas or projects in mind, don’t hesitate to reach out!
+I’m eager to collaborate on projects related to **Flutter** , **Java Spring Boot** and **Firebase**. If you have exciting ideas or projects in mind, don’t hesitate to reach out!
 
 ## 🛠️ Languages and Tools
 
@@ -47,6 +47,9 @@ You can reach me directly via email: [mohammadaftab1062@gmail.com](mailto:mohamm
 
 ### 🌐 Connect with me on social media:
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/mdaftabalam1062)
+
+### Portfolio:
+[![Portfoli]([https://img.icons8.com/color/48/000000/linkedin.png](https://iconscout.com/icons/portfolio))]([https://www.linkedin.com/in/mdaftabalam1062](https://mohammadaftabalam.github.io/portfolio/))
 
 ## ⚡ Fun Fact
 I enjoy solving DSA problems and constantly challenge myself to learn new programming languages and frameworks. Let’s connect and share our learning experiences!
