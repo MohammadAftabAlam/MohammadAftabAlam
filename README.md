@@ -49,7 +49,7 @@ You can reach me directly via email: [mohammadaftab1062@gmail.com](mailto:mohamm
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/mdaftabalam1062)
 
 ### Portfolio:
-[![Portfoli]([https://img.icons8.com/color/48/000000/linkedin.png](https://iconscout.com/icons/portfolio))]([https://www.linkedin.com/in/mdaftabalam1062](https://mohammadaftabalam.github.io/portfolio/))
+[![Portfolio](https://iconscout.com/icons/portfolio)](https://mohammadaftabalam.github.io/portfolio/)
 
 ## ⚡ Fun Fact
 I enjoy solving DSA problems and constantly challenge myself to learn new programming languages and frameworks. Let’s connect and share our learning experiences!
